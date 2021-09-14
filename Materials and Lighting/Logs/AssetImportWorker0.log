@@ -550,3 +550,123 @@ Received Import Request.
 Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_Height.png using Guid(11a916f74a93ba74dbe74f6742bc177e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1ca16d5dbd39e3ea57625fb5d3bd1c') in 0.014760 seconds 
   Import took 0.021559 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2890.425057 seconds.
+  path: Assets/Materials/Special
+  artifactKey: Guid(5aee9811c41bbc34c8062020d09a326a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Special using Guid(5aee9811c41bbc34c8062020d09a326a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82581e306707caa4b6cbe337037ceb1') in 0.002706 seconds 
+  Import took 0.011466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.367793 seconds.
+  path: Assets/Materials/Special/Glow
+  artifactKey: Guid(2bf7c868a757f9943ac17bbc491d4520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Special/Glow using Guid(2bf7c868a757f9943ac17bbc491d4520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3aa3d62e4eb5017b7b37aa1030ba7e') in 0.001933 seconds 
+  Import took 0.011928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.186044 seconds.
+  path: Assets/Materials/Special/Splatter
+  artifactKey: Guid(61e4e128fe496b040afc1758b4c5569b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Special/Splatter using Guid(61e4e128fe496b040afc1758b4c5569b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e61dbd0cf7a3c1240d4a23fc904865') in 0.003201 seconds 
+  Import took 0.011285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.468808 seconds.
+  path: Assets/Materials/Stylized
+  artifactKey: Guid(ad376ba13537340428e7add8444792d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized using Guid(ad376ba13537340428e7add8444792d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac5b1b9dfea61f759a01c755e90d5b1') in 0.002946 seconds 
+  Import took 0.011163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.833200 seconds.
+  path: Assets/Materials/Stylized/Dirt
+  artifactKey: Guid(77f66c999fc0bc54980c5e4844cdaa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Dirt using Guid(77f66c999fc0bc54980c5e4844cdaa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f218fcceab7e413cb6c26525f775c7d') in 0.002559 seconds 
+  Import took 0.010030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.001592 seconds.
+  path: Assets/Materials/Stylized/Grass
+  artifactKey: Guid(5b45e5c3708a5f241930aec77af90fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Grass using Guid(5b45e5c3708a5f241930aec77af90fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266682e9a9dc898d2a382369a5b2bce3') in 0.003403 seconds 
+  Import took 0.010986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.282345 seconds.
+  path: Assets/Materials/Stylized/Rock
+  artifactKey: Guid(505b963b243a0ef44be8793d93c2cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock using Guid(505b963b243a0ef44be8793d93c2cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0cb813152933e117e690a1fe23a585') in 0.002019 seconds 
+  Import took 0.013693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.760551 seconds.
+  path: Assets/Materials/Stylized/Stone
+  artifactKey: Guid(1556c24433e7e0241b2e338f737740c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone using Guid(1556c24433e7e0241b2e338f737740c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee152c9b8e49ffa7a093e6e81d62be6c') in 0.002059 seconds 
+  Import took 0.010433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 765.095686 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks
+  artifactKey: Guid(dc4a8004672a24f649de823768b9f59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks using Guid(dc4a8004672a24f649de823768b9f59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27800fb998ea4a4d6f371fac8b231f7') in 0.002725 seconds 
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.699585 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_diff_4k.png
+  artifactKey: Guid(57c1cdc781c344c38a25fa546920c9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_diff_4k.png using Guid(57c1cdc781c344c38a25fa546920c9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04cec27021d62e4386b44cabf67ae5ba') in 0.023584 seconds 
+  Import took 0.032646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.979127 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_arm_4k.png
+  artifactKey: Guid(6dfd6fd78657c43a29265c5d5bb80633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_arm_4k.png using Guid(6dfd6fd78657c43a29265c5d5bb80633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab1dd1e4d1f3640c23ea99aea8a7910') in 0.017513 seconds 
+  Import took 0.024479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.304586 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png
+  artifactKey: Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png using Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e781d658566a635d5bfb982c2ec01e60') in 0.015888 seconds 
+  Import took 0.025654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001415 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png
+  artifactKey: Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png using Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e781d658566a635d5bfb982c2ec01e60') in 0.008652 seconds 
+  Import took 0.014279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1339.645421 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_diff_4k.png
+  artifactKey: Guid(57c1cdc781c344c38a25fa546920c9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_diff_4k.png using Guid(57c1cdc781c344c38a25fa546920c9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb0e5f2956dfb6685fd089b2afda8ee') in 0.017519 seconds 
+  Import took 0.027337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png
+  artifactKey: Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png using Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a854fffde7dbc0cc49fad963ff5310') in 0.019149 seconds 
+  Import took 0.028904 seconds .
+
