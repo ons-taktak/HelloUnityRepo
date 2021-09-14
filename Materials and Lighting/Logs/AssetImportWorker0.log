@@ -670,3 +670,204 @@ Received Import Request.
 Start importing Assets/Materials/Realistic/WoodenPlanks/weathered_brown_planks_nor_gl_4k.png using Guid(def1e6ae74a974287bc6fa7a63c92def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a854fffde7dbc0cc49fad963ff5310') in 0.019149 seconds 
   Import took 0.028904 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1159.064564 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4076e5c0acc0b2d29db2f60dea055511') in 0.003898 seconds 
+  Import took 0.012484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.720230 seconds.
+  path: Assets/Scenes/Materials.unity
+  artifactKey: Guid(c8fc420beba843c4f826768aa7d7778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Materials.unity using Guid(c8fc420beba843c4f826768aa7d7778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345361401b82ee2fe1f37dc84833091a') in 0.003077 seconds 
+  Import took 0.011406 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.603 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1605ms)
+		BeginReloadAssembly (268ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (147ms)
+		EndReloadAssembly (1267ms)
+			LoadAssemblies (148ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (390ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (455ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (312ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2972 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.6 MB.
+System memory in use after: 267.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3666.
+Total: 3.530245 ms (FindLiveObjects: 0.400287 ms CreateObjectMapping: 0.092107 ms MarkObjects: 2.934014 ms  DeleteObjects: 0.102767 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 377.060630 seconds.
+  path: Assets/Scenes/Lighting.unity
+  artifactKey: Guid(1b9ba3915e51c7c49b174c9c1b898776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting.unity using Guid(1b9ba3915e51c7c49b174c9c1b898776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8d41436d3a5524627bd4ec4274741c') in 0.018770 seconds 
+  Import took 0.025985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.537721 seconds.
+  path: Assets/Scenes/Props.unity
+  artifactKey: Guid(36c5da06d3a3d184b8fad2edad359cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Props.unity using Guid(36c5da06d3a3d184b8fad2edad359cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa1de9456ce7872692e327851393de6') in 0.002086 seconds 
+  Import took 0.009480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 502.349803 seconds.
+  path: Assets/AllSkyFree/Cold Night/Cold Night Equirect.png
+  artifactKey: Guid(97259d0c0ea9f491692be825da27978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Night/Cold Night Equirect.png using Guid(97259d0c0ea9f491692be825da27978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc72a9eff87b9a1015142b10cef3dd3') in 0.607214 seconds 
+  Import took 0.620571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2233.078383 seconds.
+  path: Assets/Settings/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(7acc7aca1d3624abe8d266999fb3f196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRenderPipelineAsset.asset using Guid(7acc7aca1d3624abe8d266999fb3f196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edecd61bfaafeda0d59cc55b2e883de') in 0.363275 seconds 
+  Import took 0.369103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.097683 seconds.
+  path: Assets/Settings/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(a2fcb939b7e5c41c69babfef5c24f145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRenderPipelineAsset_Renderer.asset using Guid(a2fcb939b7e5c41c69babfef5c24f145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae5cc4dc19cb8e8533c2c61d316d146') in 0.006404 seconds 
+  Import took 0.012400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 341.003178 seconds.
+  path: Assets/AtmosphericHouse/Prefabs
+  artifactKey: Guid(8f24cfd233c4f4509add985df9db9cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs using Guid(8f24cfd233c4f4509add985df9db9cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd30746bcee76fc7c673232c13f86ef') in 0.002036 seconds 
+  Import took 0.010195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.228680 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props
+  artifactKey: Guid(0b20a2059ee0f465ebee8cc7b6ec4bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props using Guid(0b20a2059ee0f465ebee8cc7b6ec4bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19377fb7f894b7bf9e89ac4a83d78ef') in 0.002972 seconds 
+  Import took 0.010856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.376601 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps
+  artifactKey: Guid(c4332f33a2a124998b483694663b8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps using Guid(c4332f33a2a124998b483694663b8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e4a65c1e9a72ca6c02f8b43d6a08cd') in 0.002192 seconds 
+  Import took 0.012041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000809 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps
+  artifactKey: Guid(c4332f33a2a124998b483694663b8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps using Guid(c4332f33a2a124998b483694663b8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e4a65c1e9a72ca6c02f8b43d6a08cd') in 0.000891 seconds 
+  Import took 0.008245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.721875 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab
+  artifactKey: Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab using Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f066a9cff5169f3062947e4b5ccab0b5') in 0.902908 seconds 
+  Import took 0.913257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002680 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_shade.prefab
+  artifactKey: Guid(89925d53b42432741b6c9de75492ab0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_shade.prefab using Guid(89925d53b42432741b6c9de75492ab0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5db8317f9160c703f0d3d1e0526652f') in 0.053109 seconds 
+  Import took 0.060176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab
+  artifactKey: Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab using Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f668654e20f2f95e088e0b64ab51fb') in 0.033458 seconds 
+  Import took 0.041658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab
+  artifactKey: Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab using Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efded253bf50ea6c7ff6691e7732d637') in 0.028391 seconds 
+  Import took 0.038555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_work.prefab
+  artifactKey: Guid(5ca21fe83ef4ee3498bf44669e04fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_table_work.prefab using Guid(5ca21fe83ef4ee3498bf44669e04fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade1718faafa880833f1d7dc6355448a') in 0.038321 seconds 
+  Import took 0.047464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab
+  artifactKey: Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab using Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b83f9d4725b37c2433579b0a6d1bc0') in 0.030025 seconds 
+  Import took 0.038669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007883 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab
+  artifactKey: Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab using Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b83f9d4725b37c2433579b0a6d1bc0') in 0.025395 seconds 
+  Import took 0.034483 seconds .
+
